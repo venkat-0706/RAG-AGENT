@@ -1,0 +1,20 @@
+# Core Frameworks
+langchain
+langgraph
+pydantic
+streamlit
+python-dotenv
+
+# Hugging Face and Transformer dependencies
+transformers
+sentence-transformers 
+accelerate
+torch 
+langchain-community 
+
+# Vector Store
+chromadb
+
+# Document Loading/Processing (for setup)
+pypdf
+tiktoken
